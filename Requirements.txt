@@ -1,3 +1,5 @@
 NumPy version: 1.22.4
 scikit-learn version: 1.2.2
 matplotlib version: 3.7.1
+flask
+gunicorn
